@@ -58,3 +58,30 @@ AULA_CURSO para asignar aulas a cursos.
 HORARIO_CURSO para asignar horarios a cursos.
 
 De este modo, cada relación multivaluada se ha descompuesto en tablas independientes, eliminando cualquier redundancia y asegurando que se cumple con la 4FN.
+
+
+# Diagrama E-R
+
+Diagramado de la Base de Datos.. 📋
+![alt text](DiagramaUniversidad.png)
+
+
+# Lenguaje
+
+Base de datos en MySQL ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# Uso
+
+> [!important]
+> Abrir el repositorio y descargar su contenido
+> descomprimir el zip 
+> Ingresa al programa MySQL Workbench y abre los scripts que se encuentran dentro de la carpeta del repositorio previamente descomprimida
+> listo ya se ecuentra dentro de la DB.
+
+# Desarolladores 
+
+Laura Carrillo - Tecnologa en Desarrollo de Sistemas Informaticos
+| @cordilauoficial |  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+Felipe Velandia - Camper
+| @velandia____ | ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
